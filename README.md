@@ -6,6 +6,9 @@
 
 Site para a loja de semijoias da minha tia **Lilian**. Ela não fabrica as peças, revende semijoias de vários fornecedores, e o site funciona como um **catálogo online com reservas**: as clientes navegam, filtram, favoritam e reservam peças, e a Lilian gerencia tudo por um painel próprio.
 
+## ⚠️ATENÇÃO!⚠️
+> - como o site é ainda um rascunho, as imagens são todas 'copyright free' e pegas de sites como unsplash apenas para exemplificar.
+
 ---
 
 ##  Funcionalidades
