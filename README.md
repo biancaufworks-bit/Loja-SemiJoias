@@ -74,16 +74,19 @@ frontend/
 
 | Página inicial 1 | Página inicial 2 | Página inicial 3 |
 |---|---|---|
-| ![Página inicial 1](inicial_1.png) | ![Página inicial 2](inicial_2.png) | ![Página inicial 3]() |
+| ![Página inicial 1](inicial_1.png) | ![Página inicial 2](inicial_2.png) | ![Página inicial 3](inicial_3new) |
 
 | Menu| Catálogo | Detalhes da peça |
 |---|---|---|
 | ![Menu](inicial_4.png) | ![Catálogo](inicial_5.png) | ![Reservas](inicial_6.png) |
 
-| Menu da cliente | Painel da Lilian |
+| Painel da Lilian 1 | Painel da Lilian 2 |
 |---|---|
-| ![Menu](inicial_4) | ![Painel](imagens/painel.png) |
+| ![Painel da Lilian 1](inicial_7) | ![Painel da Lilian 2](inicial_8.png) |
 
+| Reservas (clientes) 1 | Reservas (clientes) 2 |
+|---|---|
+| ![Reservas (clientes) 1](inicial_8) | ![Reservas (clientes) 2](inicial_9.png) |
 ---
 
 ## Próximos passos
