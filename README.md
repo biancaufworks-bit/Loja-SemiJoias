@@ -10,7 +10,7 @@ Site para a loja de semijoias da minha tia **Lilian**. Ela não fabrica as peça
 
 ##  Funcionalidades
 
-###  Administradora (Lilian)
+###  Administradora
 - Cadastra semijoias com fotos, preço, código, descrição e estoque
 - Cria os próprios filtros: **tipo** (anel, pulseira, colar...), **banho** (ouro, prata, ouro velho...), **adicionais** (pedras brancas, pedras rosas, perolado...) e **tamanhos** (16, 18...)
 - Controla o **estoque** e de qual **empresa/fornecedor** vem cada peça (informação que só ela vê, junto com o preço de custo)
@@ -72,17 +72,17 @@ frontend/
 
 <!-- Troque os caminhos abaixo pelos das suas imagens no repositório -->
 
-| Página inicial | Catálogo |
-|---|---|
-| ![Página inicial](inicial_1.png) | ![Catálogo](imagens/catalogo.png) |
+| Página inicial 1 | Página inicial 2 | Página inicial 3 |
+|---|---|---|
+| ![Página inicial 1](inicial_1.png) | ![Página inicial 2](inicial_2.png) | ![Página inicial 3](inicial_3.png) |
 
-| Detalhes da peça | Reservas |
-|---|---|
-| ![Detalhes](imagens/detalhe.png) | ![Reservas](imagens/reservas.png) |
+| Menu| Catálogo | Detalhes da peça |
+|---|---|---|
+| ![Menu](inicial_4.png) | ![Catálogo](inicial_5.png) | ![Reservas](inicial_6.png) |
 
 | Menu da cliente | Painel da Lilian |
 |---|---|
-| ![Menu](imagens/menu.png) | ![Painel](imagens/painel.png) |
+| ![Menu](inicial_4) | ![Painel](imagens/painel.png) |
 
 ---
 
