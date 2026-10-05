@@ -74,7 +74,7 @@ frontend/
 
 | Página inicial 1 | Página inicial 2 | Página inicial 3 |
 |---|---|---|
-| ![Página inicial 1](inicial_1.png) | ![Página inicial 2](inicial_2.png) | ![Página inicial 3](inicial_3new) |
+| ![Página inicial 1](inicial_1.png) | ![Página inicial 2](inicial_2.png) | ![Página inicial 3](inicial_3new.png) |
 
 | Menu| Catálogo | Detalhes da peça |
 |---|---|---|
