@@ -86,7 +86,7 @@ frontend/
 
 | Reservas (clientes) 1 | Reservas (clientes) 2 |
 |---|---|
-| ![Reservas (clientes) 1](inicial_9.png) | ![Reservas (clientes) 2](inicial_10.png) |
+| ![Reservas (clientes) 1](incial_9.png) | ![Reservas (clientes) 2](inicial_10.png) |
 ---
 
 ## Próximos passos
