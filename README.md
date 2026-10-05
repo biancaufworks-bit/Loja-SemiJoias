@@ -82,11 +82,11 @@ frontend/
 
 | Painel da Lilian 1 | Painel da Lilian 2 |
 |---|---|
-| ![Painel da Lilian 1](inicial_7) | ![Painel da Lilian 2](inicial_8.png) |
+| ![Painel da Lilian 1](inicial_7.png) | ![Painel da Lilian 2](inicial_8.png) |
 
 | Reservas (clientes) 1 | Reservas (clientes) 2 |
 |---|---|
-| ![Reservas (clientes) 1](inicial_8) | ![Reservas (clientes) 2](inicial_9.png) |
+| ![Reservas (clientes) 1](inicial_8.png) | ![Reservas (clientes) 2](inicial_9.png) |
 ---
 
 ## Próximos passos
